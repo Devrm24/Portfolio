@@ -1,0 +1,6 @@
+utilisateur:
+  prenom: "Alexandre"
+  nom: "Simsek"
+  sous_titre: "Bienvenue sur mon PortFolio"
+  image: ./assets/moi.jpeg
+  description: "Je m'appelle Alexandre SIMSEK, 19 ans, actuellement étudiant en BTS SIO à Caen, Sup Saint Ursule. J'allie ma passion avec ma formation"

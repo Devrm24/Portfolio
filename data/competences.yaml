@@ -1,0 +1,22 @@
+utilisateur:
+  competences:
+    - domaine: "Développement"
+      competences:
+        - nom: "HTML"
+          niveau: 90
+        - nom: "CSS"
+          niveau: 80
+        - nom: "PHP"
+          niveau: 40
+        - nom: "JS"
+          niveau: 30
+    - domaine: "Bureautique"
+      competences:
+        - nom: "Excel"
+          niveau: 70
+    - domaine: "Réseau"
+      competences:
+        - nom: "Adresse IP"
+          niveau: 50
+        - nom: "Analyse de trames"
+          niveau: 50
